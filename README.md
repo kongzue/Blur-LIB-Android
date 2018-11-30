@@ -1,6 +1,6 @@
-# Blur-LIB-Android
+# Blur-LIB-Android(zh-cn)
 
-模糊视图背景库.
+模糊视图背景库（中文文档）.
 
 [<img src="/Artwork/PhoneAndScreen.gif" width="400"/>](https://youtu.be/sYPqS0px61Q)
 

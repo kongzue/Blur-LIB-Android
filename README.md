@@ -109,5 +109,6 @@ Gradle 方式：
 ## 开发者
 
 由 Daniel Zeller 开发 - [danielzeller.no](http://danielzeller.no/), 一个位于挪威奥斯陆的自由开发者。
+
 翻译为中文： [kongzue](https://github.com/kongzue)
 

@@ -4,7 +4,7 @@
 
 [<img src="/Artwork/PhoneAndScreen.gif" width="400"/>](https://youtu.be/sYPqS0px61Q)
 
-[See demo on youtube](https://youtu.be/sYPqS0px61Q)
+[在youtube上查看范例](https://youtu.be/sYPqS0px61Q)
 
 ## 工作原理
 采用硬件加速原理，模糊变得非常快。使用Surface.LockhardWareCanvas()将要模糊的背景视图渲染成表面纹理。
